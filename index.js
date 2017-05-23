@@ -2,7 +2,7 @@
 
     ; (function () {
         // Need add Authorization value from headers after login
-        const bearer = 'Bearer [-----]'
+        const bearer = '[Authorization headers value]'
         const headers = new Headers()
         headers.append('Authorization', bearer)
         /**
