@@ -1,5 +1,5 @@
 # cookidoo-parser
-Get all recipes' links from https://cookidoo.pl/vorwerkWebapp/ in JSON file.
+Get all recipes' links from https://cookidoo.pl/vorwerkWebapp/ in JSON Object.
 
 ## Usage
 
@@ -12,6 +12,7 @@ Get all recipes' links from https://cookidoo.pl/vorwerkWebapp/ in JSON file.
 - Paste it into script instead of `[Authorization headers value]` string
 - Copy all code to clipboard
 - Paste code in Dev Tools's console
+- If code executed correctly in body selector should print JSON Object
 
 
 **Important** Paid account is required to use this script
