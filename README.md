@@ -14,3 +14,5 @@ Get all recipes' links from https://cookidoo.pl/vorwerkWebapp/ in JSON file.
 - Paste code in Dev Tools's console
 
 
+**Important** Paid account is required to use this script
+
