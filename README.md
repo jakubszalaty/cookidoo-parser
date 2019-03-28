@@ -1,6 +1,8 @@
 # cookidoo-parser
 Get all recipes' links from https://cookidoo.pl/vorwerkWebapp/ in JSON Object.
 
+**Warning** AFTER recently update of cookidoo WEB APP and API this method isn't working.
+
 ## Usage
 
 - Go to https://cookidoo.pl/vorwerkWebapp/
